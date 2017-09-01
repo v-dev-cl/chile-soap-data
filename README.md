@@ -2,7 +2,11 @@
 
 Data from 2016
 
-Fields: vehiculoTipo	vehiculoMarca	vehiculoModelo	vehiculoAnho	vehiculoPatente	vehiculoPatenteDv	vehiculoNroMotor	propietarioRut(Replaced by X)	propietarioNombre	propietarioRegion	propietarioComuna	propietarioDireccion (Numbers replaced by X)
+Fields: vehiculoTipo,	vehiculoMarca,	vehiculoModelo,	vehiculoAnho,	vehiculoPatente,	vehiculoPatenteDv,	vehiculoNroMotor,	propietarioRut(Numbers replaced by X),	propietarioNombre,	propietarioRegion,	propietarioComuna,	propietarioDireccion (Numbers replaced by X)
+
+Separator: ;
+
+Delimiter: "
 
 Files
 
